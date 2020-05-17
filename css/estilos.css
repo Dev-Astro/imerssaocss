@@ -1,0 +1,40 @@
+body{
+    background-image: url(https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Sylas_0.jpg);
+    background-size: auto 100vh;
+    font-family: courier;
+    height: 100vh;
+    }
+  
+  .menu{
+   background-color: #7B68EE;
+   
+  }
+  
+  .menu ul {
+   display: flex;
+    justify-content: space-evenly;
+  }
+  .menu li {
+    list-style: none;
+  }
+  
+  a{
+    color: whitesmoke;
+    text-decoration: none;
+  }
+  
+  a:hover {
+   text-decoration: underline;
+  }
+  
+  .site-title {
+    color: whitesmoke;
+    text-align: center;
+  }
+  
+  .site-subtitle{
+    color: ghostwhite;
+    font-style: italic;
+    text-align: center;
+  }
+  
